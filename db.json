@@ -1,4 +1,4 @@
-{
+[{
     "_id": "5cb0a488f92c00b549664116",
     "index": 0,
     "guid": "a81b22de-e93d-4688-ab6d-66bfe04f7c36",
@@ -312,4 +312,4 @@
     ],
     "greeting": "Hello, Hickman Bauer! You have 10 unread messages.",
     "favoriteFruit": "strawberry"
-  }
+  }]
