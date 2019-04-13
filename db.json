@@ -1,9 +1,11 @@
 {
-  "test": [{
-  "id": "0001",
-  "type": "donut",
-  "name": "Cake",
-  "ppu": 0.55,
-  "batters": "77"
-  }]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
